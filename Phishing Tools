@@ -1,0 +1,5 @@
+#This is blackeye tool used to create phishing attacks on targets.
+
+git clone https://github.com/thelinuxchoice/blackeye
+cd blackeye
+bash blackeye.sh
